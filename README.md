@@ -5,3 +5,6 @@ Built an interactive Power BI dashboard that analyzed 4 billion streams from the
 ## Skills Used
 - **Tools & Languages:** Power BI, Python
 - **Key Skills:** Data Visualization, Dashboard Design, Analytical Insights
+
+
+![Spotify Dashboard](Spotifypowerbi.png)
